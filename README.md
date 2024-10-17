@@ -18,7 +18,7 @@ Este repositorio contiene una implementación de lista personalizada en C++ util
 
 - **Clona el repositorio**:
     ```
-  https://github.com/Fort503/MyTemplateListClass.git`
+  https://github.com/Fort503/MyTemplateListClass.git
     ```
    
 
